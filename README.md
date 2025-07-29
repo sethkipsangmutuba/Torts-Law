@@ -54,3 +54,25 @@
 3. [Structure of the Book 2–018](#3-structure-of-the-book-2–018)  
 4. [Torts Not Treated in This Book 2–019](#4-torts-not-treated-in-this-book-2–019)
 
+---
+
+## Topic 3: Foundational Concepts in Tort Law
+
+1. [Intention 3–002](#1-intention-3–002)  
+2. [Negligence 3–006](#2-negligence-3–006)  
+3. [Strict Liability 3–011](#3-strict-liability-3–011)  
+4. [Motive and Malice 3–012](#4-motive-and-malice-3–012)
+
+---
+
+## Topic 4: Trespass to the Person and Related Matters
+
+1. [Introduction 4–001](#1-introduction-4–001)  
+2. [General Principles of Trespass to the Person 4–002](#2-general-principles-of-trespass-to-the-person-4–002)  
+3. [Battery 4–007](#3-battery-4–007)  
+4. [Assault 4–018](#4-assault-4–018)  
+5. [False Imprisonment 4–023](#5-false-imprisonment-4–023)  
+6. [Acts Intended to Cause Physical Harm (Other Than Trespass) 4–031](#6-acts-intended-to-cause-physical-harm-other-than-trespass-4–031)  
+7. [Protection from Harassment Act 1997 4–034](#7-protection-from-harassment-act-1997-4–034)  
+8. [Harassment Under the Equality Act](#8-harassment-under-the-equality-act)
+
