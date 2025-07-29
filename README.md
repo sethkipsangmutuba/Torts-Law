@@ -379,7 +379,7 @@
     - [B. Statute](#16-038)
 
 ---
-## Topic: Animals
+## Topic 17: Animals
 ---
 - [17. ANIMALS](#17-animals)
   - [1. Ordinary Liability in Tort](#17-002)
@@ -394,9 +394,8 @@
   - [5. Protection of Livestock Against Dogs](#17-028)
 
 ---
-
-## Topic 18. INTERFERENCE WITH GOODS
-
+## Topic 18. Interference with Goods
+---
 1. [History](#18-001)  
 2. [Trespass to Goods](#18-008)  
 3. [Conversion](#18-012)  
@@ -420,7 +419,9 @@
    - [Improvement of Goods](#18-058)  
    - [Effect of Judgment](#18-060)
 
-## Topic  19. INTERFERENCE WITH CONTRACT OR BUSINESS
+---
+## Topic  19. Interference with Contract or Business
+---
 
 1. [Introduction](#19-001)  
 2. [Inducing or Procuring a Breach of Contract](#19-006)  
@@ -458,8 +459,7 @@
    - [The Limits of Passing Off](#19-089)  
    - [Remedies](#19-091)
 ----
-
-## Topic 20. ABUSE OF LEGAL PROCEDURE
+## Topic 20. Abuse of Legal Procedure
 
 1. [Malicious Prosecution](#20-001)  
    - [Prosecution](#20-006)  
@@ -470,7 +470,9 @@
 3. [Malicious Civil Proceedings](#20-019)  
 4. [Abuse of Process](#20-022)
 
-## Topic 21. VICARIOUS LIABILITY
+---
+## Topic 21. Vicarious Liability
+---
 
 1. [The Nature and Basis of Vicarious Liability](#21-001)  
 2. [The Relationship Between the Defendant and the Tortfeasor](#21-007)  
@@ -491,7 +493,9 @@
    - [Categories of Non-delegable Duties](#21-045)  
    - [Collateral or Casual Negligence of Independent Contractor](#21-051)
 
-## Topic  22. JOINT AND SEVERAL TORTFEASORS
+---
+## Topic  22. Joint and Several Tortfeasors
+---
 
 1. [Multiple Tortfeasors, Causation and Proof](#22-001)  
 2. [Distinction Between Joint and Several Tortfeasors](#22-005)  
@@ -501,8 +505,8 @@
    - [Settlements](#22-015)
 
 ---
-
-## Topic 23. REMEDIES
+## Topic 23. Remedies
+----
 
 1. [Damages](#23-002)  
    - [Damages Recoverable Once Only](#23-002)  
@@ -543,8 +547,8 @@
    - [Specific Restitution of Property](#23-135)
 
 ---
-
-## Topic 24. DEATH IN RELATION TO TORT
+## Topic 24. Death in Relation to Tort
+---
 
 1. [Death as Extinguishing Liability](#24-002)  
    - [Survival of Causes of Action](#24-003)  
@@ -562,8 +566,8 @@
 3. [Relationship of the Two Acts](#24-032)
 
 ---
-
-## Topic  25. CAPACITY
+## Topic  25. Capacity
+---
 
 1. [The State and its Subordinates](#25-002)  
 2. [Judicial Acts](#25-008)  
@@ -583,8 +587,8 @@
 9. [Persons Having Parental or Quasi-Parental Authority](#25-039)
 
 ---
-
-## Topic 26. DEFENCES
+## Topic 26. Defences
+---
 
 1. [Introduction](#26-001)  
 2. [Denials](#26-007)  
