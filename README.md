@@ -1,8 +1,9 @@
 # Torts-Law
-
-#1: Introduction
-
+---
 ##  Table of Contents
+---
+## Topic 1: Introduction
+---
 
 1. [Nature and Functions of the Law of Tort](#1-nature-and-functions-of-the-law-of-tort)  
    A. [Aims of the Law of Tort 1–001](#a-aims-of-the-law-of-tort-1–001)  
@@ -40,3 +41,16 @@
    C. [First-Party Insurance 1–049](#c-first-party-insurance-1–049)
 
 7. [Tort and the Compensation Culture 1–050](#7-tort-and-the-compensation-culture-1–050)
+
+---
+
+## Topic 2: The Structure of Tort Law
+---
+
+1. [Historical Influences 2–001](#1-historical-influences-2–001)  
+2. [New Influences on English Tort Law](#2-new-influences-on-english-tort-law)  
+   A. [The European Convention on Human Rights and the Human Rights Act 2–006](#a-the-european-convention-on-human-rights-and-the-human-rights-act-2–006)  
+   B. [A European Tort Law? 2–015](#b-a-european-tort-law-2–015)  
+3. [Structure of the Book 2–018](#3-structure-of-the-book-2–018)  
+4. [Torts Not Treated in This Book 2–019](#4-torts-not-treated-in-this-book-2–019)
+
